@@ -1,0 +1,407 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+header{
+
+	background-image: url(../img/banner.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+.logo img{
+	animation-duration: 4s;
+}
+.good-time{
+	 text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    border: 2px dashed #3d2514;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px 172px;
+    color: #3d2514;
+    position: relative;
+    left: -173px;
+    margin-bottom: 
+
+}
+.good-time:hover{ border: 2px dashed green;}
+.good-time p{
+	padding-bottom: 0;
+    margin-bottom: 0;
+}
+.burger-week h2{
+	font-size: 80px;
+    font-weight: 900;
+    text-shadow: 2px 2px white;
+    letter-spacing: 2px;
+}
+.burger-week h3{
+	    font-size: 64px;
+    font-weight: 900;
+     text-shadow: 2px 2px white;
+    letter-spacing: 2px;
+
+}
+.burger-week:hover, .good-time:hover{color: green;}
+
+.menulist ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.menulist ul li a{color: #3d1534;
+	margin-top: 15px;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 800;
+margin-right: 30px;
+text-transform: uppercase;
+list-style: none;
+}
+.menulist ul li a:hover{
+	/*text-decoration: 2px underline;*/
+border-bottom: 3px solid #1c9255;
+color: #1c9255;
+font-weight: 900;
+
+}
+
+.left-2{
+	    position: relative;
+    top: 13em;
+}
+.leftpart{
+
+    position: relative;
+    left: 150px;
+    top: 15px;
+}
+.contact{
+	    position: relative;
+    left: 269px;
+    top: 5px;
+    font-weight: 600;
+}
+.menulist{
+	position: relative;
+    top: 11px;
+    left: 83px;
+}
+
+/******************************************************
+
+Header end three burger start
+
+***************************************************/
+.p1-des p
+{    font-size: 20px;
+    font-weight: 700;
+    transform: scale(1,1.5);
+    position: relative;
+    top: -360px;
+    color: #f8f9fa;
+    left: 23px;}
+
+ .p2-des p,.p3-des p
+ {    font-size: 20px;
+    font-weight: 700;
+    transform: scale(1,1.5);
+    position: relative;
+    top: -159px;
+    color: #f8f9fa;
+    left: 23px;} 
+  .p1-des h1{
+  	    font-size: 17px;
+    transform: scale(1,2.7);
+    font-weight: 900;
+    color: white;
+    position: relative;
+    top: -362px;
+    left: 23px;
+  }
+  .p2-des h1, .p3-des h1{
+  	    font-size: 17px;
+    transform: scale(1,2.7);
+    font-weight: 900;
+    color: white;
+    position: relative;
+    top: -148px;
+    left: 23px;
+  }
+  .p3 img{
+  	margin-top: 0;
+  	padding-top: 0;
+  	position: relative;
+  	top: -60px
+  }
+  .btn button{
+    background-color: #ffc045;
+    color: #3d2514;
+    padding: 5px;
+    border: navajowhite;
+    font-weight: 400;
+    position: relative;
+    top: -93px;
+    right: 110px;
+  }
+.three-burger{
+	animation-duration: 3s;
+}
+  /*&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+}
+
+THREE BRGER END AND BIG BURGER START
+
+  &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&*/
+
+  .head h1{
+  	    text-align: center;
+    font-weight: 900;
+    font-size: 63px;
+    color: #3d2514;
+  }
+
+  .head p{
+  	    text-align: center;
+    font-weight: 400;
+    padding-bottom: 3em;
+    color: #3d2514;
+  }
+  .m-1 img{
+  	position: relative;
+  	left: 40px;
+  }
+  .l-1 h2, .m-1 h2, .r-1 h2
+  {
+  	    text-align: center;
+    font-size: 27px;
+    font-weight: 700;
+    color: #3d2514;
+    padding-top: 15px;
+  }
+
+   .l-1 p,.m-1 p,.r-1 p{
+ text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    color: #3d2514
+   }
+
+ .l-1 form .B-order , .m-1 form .B-order, .r-1 form .B-order{
+  	    color: white;
+    background-color: red;
+    padding: 10px 33px;
+    text-align: center;
+    border: none;
+    position: relative;
+    left: 140px;
+    margin-bottom: 2em;
+    font-weight: 700;
+  }
+
+
+  /*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+BIG NURGER END & SHADOW PART START
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+.banner{
+	margin-bottom: 5em;
+}
+.poster{
+	    width: 90%;
+    margin-left: 60px;
+        box-shadow: 4px 7px 449px 97px wheat;
+    /* color: blue; */
+    
+    margin-top: 48px;
+    background-color: #ffffff;
+    animation-duration: 5s;
+
+}
+.l-poster{
+        position: relative;
+    top: 30px;
+    left: 24px;
+}
+.l-poster h6{
+	color: black;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.l-poster h2{
+	 color: #3d2514;
+    font-weight: 900;
+    font-size: 45px;
+    padding-bottom: 20px;
+    background-size: cover;
+}
+
+.l-poster p{color: saddlebrown;
+    width: 438px;
+}
+
+/************************************************
+
+BIG BURGER END RESEVATION TABLE STRAT
+*****************************************/
+.reservation{
+	background-image: url(../img/lastba.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 80vh;
+	width: 100%;
+
+}
+.re-head h6{
+	    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+    transform: scale(1,1.5);
+    padding-top: 10px;
+}
+.re-head h2{
+	    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    transform: scale(1,1.4);
+    padding-top: 20px;
+    color: #3d2514;
+    margin-bottom: 20px;
+}
+.t-1{
+	    margin-top: 20px;
+    position: relative;
+    top: 97px;
+    left: 23em;
+}
+.t-1 input{    width: 250px;
+    height: 50px;
+    color: #aa0000;}
+ .t-2 {        position: relative;
+    top: -93px;
+    left: 652px;}
+
+ .t-2 input{width: 250px;
+    height: 50px;
+    color: #aa0000;}
+
+ .t-3{    position: relative;
+    left: 652px;
+    top: -76px;}
+
+ .t-3 input{width: 250px;
+    height: 50px;
+    color: #aa0000;}
+.table{
+	    position: relative;
+    right: 74px;
+
+}
+
+.btn-2 button{ 
+    position: relative;
+    left: 651px;
+    width: 249px;
+    height: 50px;
+    bottom: 54px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-weight: 900;
+    }
+
+    /*=====================================
+
+RESERVATION PART END & FOOTER PART START
+
+    =====================================*/
+
+.footer{
+	background-image: url(../img/logof2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 80vh;
+	width: 100%;
+	color:white;
+}
+.r-foot{
+	padding-left: 3em;
+	position: relative;
+    top: 83px;
+}
+
+.r-foot img{
+	margin-bottom: 4em;
+	position: relative;
+	top: 10px;
+}
+
+.r-foot p{
+    font-size: 17px;
+    width: 29em;
+    font-weight: lighter;
+}
+
+.r-last p{
+    position: relative;
+    top: 162px;
+    left: 4em;
+    font-size: 12px;
+}
+.adress  a i {
+position: relative;
+    top: 28px;
+    right: 45px;
+    font-size: 28px;
+    color: white;
+padding-bottom: 0;}
+.adress{
+	color: white;
+    position: relative;
+    top: 238px;
+    left: 250px;
+}
+.adress a  p{
+	color: white;
+	padding-bottom: 0;
+	margin-bottom:0;
+
+}
+
+.last-icon ul li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 15px;
+	font-size: 20px;
+	position: relative;
+	top:19.5em;
+	left: 16.5em
+}
+.last-icon ul li a i{
+	color: black;
+	background-color: white;
+	height: 25px;
+	width: 25px;
+	line-height: 25px;
+	text-align: center;
+	border-radius: 50px;
+}
+
+.last-icon ul li a i:hover{
+	color: red;
+	background-color: green;
+	transition-duration: 2s; 
+	transform: rotate(360deg);
+	
+
+}
